@@ -30,6 +30,7 @@ replace placholders in the source code file
 (lines 87, 88 and 96)
 
 save and run:
+
 `python receptaPrzezSMS_0.0.2.py`
 
 An executable file entitled 'receptaPrzezSMS_0.0.1.exe' is provided for demo purposes.
