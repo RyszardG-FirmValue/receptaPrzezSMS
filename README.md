@@ -17,7 +17,7 @@ install 'twilio'
 
 `pip install twilio`
 
-sing up / or login with twilo and obtain your:
+sign up / or login with twilo and obtain your:
 
 `account_sid`
 
