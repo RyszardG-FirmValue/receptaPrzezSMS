@@ -31,7 +31,7 @@ Download the file, dobule-click it and fill the data for:
 Patient Name
 Patient Surname
 Telephone number (9 digits)
-(this works only with Polish nubmers, but DO NOT prefix it with '+48')
+(this works only with Polish numbers, but DO NOT prefix it with '+48')
 Code for e-prescription (4 digits)
 Click 'Wyślij SMS' button.
 
