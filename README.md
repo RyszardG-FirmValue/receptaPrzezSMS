@@ -15,8 +15,11 @@ install 'twilio'
 
 sing up / or login with twilo and obtain your:
 `account_sid`
+
 `auth_token`
+
 `your-trial-number`
+
 replace placholders in the source code file (lines 87, 88 and 96)
 
 save and run:
