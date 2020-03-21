@@ -54,15 +54,17 @@ Code for e-prescription (4 digits)
 Click 'Wyślij SMS' button.
 
 Compare: 01. wpisz dane pacjenta.png
-![Screenshot](wpisz dane pacjenta.png)
+![alt text](01.%20wpisz%20dane%20pacjenta.png)
 
 A pop-up window should appear indicating SMS has been sent.
 
 Compare: 02. wyślij wiadomość.png
+![alt text](02.%20wy%C5%9Blij%20wiadomo%C5%9B%C4%87.png)
 
 Check out your tefephone.
 
 Compare: 03. wiadomość odebrana.png
+![alt text](03.%20wiadomo%C5%9B%C4%87%20odebrana.png)
 
 Click OK to dismiss the confirmation window.
 
