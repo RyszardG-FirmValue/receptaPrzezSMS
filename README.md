@@ -2,30 +2,39 @@
 send e-prescription to Seniors via SMS / rozsyłanie kodów e-recept przez SMS
 
 prerequisites:
+
 a working Python environment, eg. miniconda
 
 create a new conda environment named 'workdesk':
+
 `conda create -n workdesk Python=3`
 
 activate the 'workdesk' environment:
+
 `conda activate workdesk`
 
 install 'twilio'
+
 `pip install twilio`
 
 sing up / or login with twilo and obtain your:
+
 `account_sid`
 
 `auth_token`
 
 `your-trial-number`
 
-replace placholders in the source code file (lines 87, 88 and 96)
+replace placholders in the source code file
+
+(lines 87, 88 and 96)
 
 save and run:
 `python receptaPrzezSMS_0.0.2.py`
 
-An executable file entitled 'receptaPrzezSMS_0.0.1.exe' is provided for demo purposes. It can be run under Microsoft Windows.
+An executable file entitled 'receptaPrzezSMS_0.0.1.exe' is provided for demo purposes.
+
+It can be run under Microsoft Windows.
 
 Try it out!
 
