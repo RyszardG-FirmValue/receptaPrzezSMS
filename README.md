@@ -54,6 +54,7 @@ Code for e-prescription (4 digits)
 Click 'Wyślij SMS' button.
 
 Compare: 01. wpisz dane pacjenta.png
+![Screenshot](wpisz dane pacjenta.png)
 
 A pop-up window should appear indicating SMS has been sent.
 
