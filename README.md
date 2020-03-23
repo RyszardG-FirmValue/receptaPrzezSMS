@@ -55,7 +55,7 @@ Click 'Wyślij SMS' button.
 
 Compare: 01. wpisz dane pacjenta.png
 
-![alt text](01.%20wpisz%20dane%20-redacted.png)
+![alt text](01.%20wpisz%20dane%20pacjenta-redacted.png)
 
 A pop-up window should appear indicating SMS has been sent.
 
