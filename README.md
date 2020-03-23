@@ -33,7 +33,7 @@ save and run:
 
 `python receptaPrzezSMS_0.0.2.py`
 
-An executable file entitled 'receptaPrzezSMS_0.0.1.exe' is provided for demo purposes.
+An executable file entitled 'receptaPrzezSMS_0.0.1.exe' (removed after hackaton) is provided for demo purposes.
 
 It can be run under Microsoft Windows.
 
